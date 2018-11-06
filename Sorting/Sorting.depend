@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1492066498 source:c:\users\양정모\desktop\과제\플밍\sorting\main.cpp
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<time.h>
+
+1541503994 source:c:\users\양정모\desktop\c & c++\플밍\sorting\main.cpp
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
